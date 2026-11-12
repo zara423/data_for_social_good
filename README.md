@@ -36,7 +36,7 @@ Dataset: https://docs.google.com/spreadsheets/d/1mpmsaVyVPnV-F7pOv-cWYOSaqAihGMs
 
 Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get displayed on this README. 
 
-![UML Diagram for my project](blob:https://vscode.dev/398e546b-ccff-454f-a73a-3acb7ae2a9b0) 
+(![UML Diagram for my project](UMLDiagram-1.png)) 
 
 ## Description 
 
