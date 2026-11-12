@@ -1,0 +1,7 @@
+Asked AI for help with data runner lines 8-10 :
+https://chatgpt.com/share/6af0d739-7f4c-83e8-8baf-5edafb3daed0?ogimg=plain
+
+
+
+Must haves :
+two or more 1d arrays --- maybe names and category
